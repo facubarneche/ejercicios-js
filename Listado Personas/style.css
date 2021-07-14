@@ -1,0 +1,10 @@
+* {
+    box-sizing: border-box;
+    font-family: monospace, 'Courier New', Courier;
+}
+body {
+    background: url(https://as.com/meristation/imagenes/2021/06/16/betech/1623861906_838413_1623862042_sumariofotogaleria_normal.jpg);
+}
+#h1{
+    font-size: 30px;
+}
